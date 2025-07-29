@@ -9,6 +9,7 @@ Automate the process of changing a user password in an external system by trigge
 ## 🔧 Technologies
 
 * Ivanti ITSM Workflow
+* BPMN (Business Process Model and Notation)**
 * REST API
 * JSON
 * Web Services
