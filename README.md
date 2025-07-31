@@ -56,8 +56,9 @@ Content-Type: application/json
 ## 📂 Files
 
 * `README.md` – Project documentation
-* `rest-api-spec.json` – Example payload structure
-* `ivanti-workflow-diagram.png` – Visual of the Ivanti process (optional)
+* `diagram.svg` 
+* `change_rpassword_process.bpmn` – Visual of the Ivanti process 
+
 
 ---
 
